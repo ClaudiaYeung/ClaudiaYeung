@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm [Claudia Yeung], a dedicated professional with 3 years of experience working as a System Analyst. I have successfully completed the Google Data Analytics certification and am eager to pursue a career in the Data Analyst field, showcasing my commitment to staying current with the latest data trends and analysis techniques.
+Hello! I'm Claudia Yeung, a dedicated professional with 3 years of experience working as a System Analyst. I have successfully completed the Google Data Analytics certification and am eager to pursue a career in the Data Analyst field, showcasing my commitment to staying current with the latest data trends and analysis techniques.
 
 ## Experience
 
