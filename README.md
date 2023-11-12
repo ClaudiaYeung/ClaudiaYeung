@@ -10,10 +10,10 @@ Hello! I'm Claudia Yeung, a dedicated professional with 3 years of experience wo
 
 ## Certifications
 
-- **Google Data Analytics Certification**
-  - [September 2023]
 - **Python for Non-Programmers**
   - [October 2023]
+- **Google Data Analytics Certification**
+  - [September 2023]
 - **Business Analyst and Project Manager Collaboration**
   - [July 2023]
 
@@ -23,9 +23,9 @@ I am passionate about coding and continuously expanding my knowledge in the fiel
 
 ## Current Focus
 
-- Exploring new coding languages and frameworks.
-- Collaborating on open-source projects.
-- Furthering my Python skills.
+- Exploring new coding languages and frameworks
+- Collaborating on open-source projects
+- Furthering my current coding skills
 
 ## Connect with Me
 
