@@ -7,6 +7,7 @@ Hello! I'm Claudia Yeung, a dedicated professional with 3 years of experience wo
 ## Experience
 
 - **System Analyst:** (3 years)
+- **IT Support Engineer:** (5 months)
 
 ## Certifications
 
